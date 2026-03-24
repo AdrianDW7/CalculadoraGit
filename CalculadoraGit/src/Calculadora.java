@@ -15,4 +15,15 @@ public class Calculadora {
     public int sumar(int a, int b) {
         return a + b;
     }
+    
+    /**
+     * Resta dos números enteros.
+     *
+     * @param a Minuendo
+     * @param b Sustraendo
+     * @return Resultado de la resta
+     */
+    public int restar(int a, int b) {
+        return a - b;
+    }
 }
