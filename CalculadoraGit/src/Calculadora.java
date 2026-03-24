@@ -2,6 +2,8 @@
  * Clase que representa una calculadora con operaciones aritméticas básicas.
  *
  * @author Adrián
+ * @version 1.0.0
+ * @since 2024
  */
 public class Calculadora {
 
