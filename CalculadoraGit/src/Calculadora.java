@@ -37,4 +37,16 @@ public class Calculadora {
     public int multiplicar(int a, int b) {
         return a * b;
     }
+    
+    /**
+     * Divide dos números enteros.
+     *
+     * @param a Dividendo
+     * @param b Divisor
+     * @return Resultado de la división
+     * @throws IllegalArgumentException Si el divisor es cero
+     */
+    public double dividir(int a, int b) {
+        return (double) a / b;
+    }
 }
