@@ -26,4 +26,15 @@ public class Calculadora {
     public int restar(int a, int b) {
         return a - b;
     }
+    
+    /**
+     * Multiplica dos números enteros.
+     *
+     * @param a Primer factor
+     * @param b Segundo factor
+     * @return Resultado de la multiplicación
+     */
+    public int multiplicar(int a, int b) {
+        return a * b;
+    }
 }
